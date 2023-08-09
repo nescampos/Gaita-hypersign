@@ -8,3 +8,11 @@ With Gaita, you will be able to:
 - Issue credentials for your users.
 - Enable credentials verification for your users (with verified presentations).
 
+**Gaita use [Hypersign’s Entity Studio SSI API](https://entity.hypersign.id/)**
+
+## Technologies
+- NET 6.0
+- [Hypersign’s Entity Studio SSI API](https://entity.hypersign.id/)
+
+## Configuration
+In the appsettings.json, you need to add the API Secret and the API Url (https://api.entity.hypersign.id)
